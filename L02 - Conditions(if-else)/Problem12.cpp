@@ -1,6 +1,6 @@
 #include<iostream>
 int main(){
-    /* Write a program to read a number and check whether it is positive, negative or zero. */
+    /* Problem Statement: Write a program to read a number and check whether it is positive, negative or zero. */
     double num;
     std::cout<<"Enter a number: ";
     std::cin>>num;
